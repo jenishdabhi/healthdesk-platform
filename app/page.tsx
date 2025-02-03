@@ -13,13 +13,13 @@ export default function Home() {
         />
           
         </section>
-        <Image
+        {/* <Image
           src="/assets/images/hs2.jpg"
           height={1000}
           width={1000}
           alt="patient"
           className="side-img max-w-[50%]"
-        />
+        /> */}
     </div>
   );
 }
